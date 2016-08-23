@@ -24,6 +24,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 #Annotate Rails classes with schema and routes info
 gem 'annotate'
 
+#Flexible authentication solution for Rails with Warden
+gem 'devise', '~> 4.0.0'
+
 #zurb foundation
 gem 'foundation-rails'
 
